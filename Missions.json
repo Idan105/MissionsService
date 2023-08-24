@@ -1,0 +1,50 @@
+{
+    "missionName": "Mission 1",
+    "threats": [
+    {
+        "name": "Plane1",
+        "description": "Red plane",
+        "heightMeters": 400,
+        "position": {
+            "latitude": 37.4219983,
+            "longitude": -122.084
+        }
+    },
+    {
+        "name": "Plane2",
+        "description": "Blue plane",
+        "heightMeters": 500,
+        "position": {
+            "latitude": 37.4219983,
+            "longitude": -122.084
+        }
+    },
+    {
+        "name": "Plane3",
+        "description": "Green plane",
+        "heightMeters": 650,
+        "position": {
+            "latitude": 37.4219983,
+            "longitude": -122.084
+        }
+    },
+    {
+        "name": "Plane4",
+        "description": "Yellow plane",
+        "heightMeters": 800,
+        "position": {
+            "latitude": 37.4219983,
+            "longitude": -122.084
+        }
+    },
+    {
+        "name": "Plane5",
+        "description": "Purple plane",
+        "heightMeters": 950,
+        "position": {
+            "latitude": 37.4219983,
+            "longitude": -122.084
+        }
+    }],
+    "circle": []
+}
